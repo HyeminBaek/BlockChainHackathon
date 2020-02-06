@@ -1,1 +1,2 @@
-# BlockChainHackathon
+# BlockChainHackcathon
+# Founders & Samsung Blockchain
